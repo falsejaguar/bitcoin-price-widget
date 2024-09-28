@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=BTC Price!
+Comment=Displays the Bitcoin price!
+Icon=bitcoin128
+Type=Service
+X-KDE-ServiceTypes=Plasma/Applet
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
